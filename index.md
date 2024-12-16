@@ -15,3 +15,9 @@ And then I added an image!
 var myVar = "Hello, world!";
 ```
 the ` is next to the "1" key btw!
+
+- [x] Add a header
+- [x] Add an image
+- [x] Add some JS
+- [x] Do a list too!
+- [ ] And the rest! 
